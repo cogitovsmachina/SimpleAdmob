@@ -15,8 +15,6 @@ public class MainActivity extends Activity {
 	private static final String MY_AD_UNIT_ID = "ca-app-pub-9756726447441686/6270780460";
 	private static final String MY_INTERSTITIAL_AD_ID = "ca-app-pub-9756726447441686/7747513665";
 	protected static final String LOG_TAG = "SimpleAdmobSample";
-	private static final String MY_DEVICE_ID = "B9F01CA26F8FE640F7FA84212153718E";
-	// private static final String MY_DEVICE_ID = "0506e2251316af9d";
 	private AdView adView;
 	private InterstitialAd interstitialAd;
 
