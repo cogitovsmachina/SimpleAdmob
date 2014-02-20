@@ -11,7 +11,7 @@
         android:id="@+id/showInterstitial"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:onClick="displayAdInterstitial"
+        android:onClick="displayAd"
         android:text="Ad intersticial" />
 
     <TextView
